@@ -6,4 +6,4 @@ eexport default function healthReturn(char) {
     return "wounded";
   }
   return "critical";
-}
+};
